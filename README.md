@@ -1,4 +1,4 @@
-# vue3-firebase9
+# vue3-firebase9-todo
 
 Vue 3 & Firebase 9(Cloud Firestore) Todo APP with Bulma
 
